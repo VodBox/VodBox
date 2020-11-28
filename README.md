@@ -6,7 +6,7 @@ I'm an open source contributor and software developer based out of Auckland, New
 
 ## Projects I'm Involved In
 
-[![OBS Studio](https://github.com/VodBox/VodBox/blob/main/images/obsBanner.png)](https://github.com/obsproject/obs-studio)
+[<img src="https://github.com/VodBox/VodBox/blob/main/images/obsBanner.png" alt="OBS Studio" width="400px" />](https://github.com/obsproject/obs-studio)
 
 ## Where To Find Me
 
