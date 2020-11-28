@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey there, I'm Dillon!
 
-<!--
-**VodBox/VodBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/VodBox/VodBox/blob/master/images/dillonToastHQ.png" alt="Cute toaster as an avatar" align="right" width="200px" />
 
-Here are some ideas to get you started:
+I'm an open source contributor and software developer based out of Auckland, New Zealand. My primary focus is on broadcasting and production tools, particularly on how to make them accessible and available to everyone of all skill levels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I'm Involved In
+
+[![OBS Studio](https://github.com/VodBox/VodBox/blob/master/images/obsBanner.png)](https://github.com/obsproject/obs-studio)
+
+## Where To Find Me
+
+* Twitter: [@VodBox_IO](https://twitter.com/VodBox_IO)
+* Twitch: [DillonEA](https://twitch.tv/DillonEA)
+* Email (Personal): [dillon@vodbox.io](mailto:dillon@vodbox.io)
+* Email (Business): [dillon@vodbox.co](mailto:dillon@vodbox.co)
