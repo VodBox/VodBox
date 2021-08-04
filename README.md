@@ -10,7 +10,7 @@ I'm an open source contributor and software developer based out of Auckland, New
 
 ## Where To Find Me
 
-* Twitter: [@VodBox_IO](https://twitter.com/VodBox_IO)
+* Twitter: [@Dillon_Pentz](https://twitter.com/Dillon_Pentz)
 * Twitch: [DillonEA](https://twitch.tv/DillonEA)
 * Email (Personal): [dillon@vodbox.io](mailto:dillon@vodbox.io)
 * Email (Business): [dillon@vodbox.co](mailto:dillon@vodbox.co)
